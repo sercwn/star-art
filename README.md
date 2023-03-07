@@ -15,7 +15,7 @@
   
 » 3. Adım <a href="https://github.com/sercwn/star-art/blob/main/sercan.py">sercan.py</a> dosyasının 7. satırından renk değiştirebilirsiniz.
   
-» 5. Adım Terminale ```py sercan.py``` yazın. 
+» 4. Adım Terminale ```py sercan.py``` yazın. 
 
 
 
