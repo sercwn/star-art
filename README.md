@@ -15,8 +15,6 @@
   
 » 3. Adım <a href="https://github.com/sercwn/star-art/blob/main/sercan.py">sercan.py</a> dosyasının 7. satırından renk değiştirebilirsiniz.
   
-» 4. Adım terminali açıp ```pip install turtle``` yaz ve turtle modülünü projene kur.
-  
 » 5. Adım Terminale ```py sercan.py``` yazın. 
 
 
